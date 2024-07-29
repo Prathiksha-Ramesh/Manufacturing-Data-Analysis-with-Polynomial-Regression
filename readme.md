@@ -55,3 +55,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Contact
+
+If you have any questions or suggestions, please feel free to contact me.
