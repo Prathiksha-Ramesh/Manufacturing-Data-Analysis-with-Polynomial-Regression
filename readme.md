@@ -50,7 +50,7 @@ The `requirements.txt` file includes the following dependencies:
 
 ## LICENSE: License information for the project.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## Contributing
 
